@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Sócrates</h1>
 <h6 align="center">Por anos trabalhei na área de TI, porém, decide mudar de área e atualmente estou aprendendo sobre o mundo da Ciência de Dados.</h6>
-<h6 align="center">Faco graudação em Ciência de Dados, Fiz o curso da Google Data Analytics e agora estou a desenvolver tutos e fixar o aprendizado</h6>
+<h6 align="center">Faco graudação em Ciência de Dados, Fiz o curso da Google Data Analytics e agora estou a desenvolver tutos para fixar o aprendizado</h6>
 <h6 align="center">Ciência de Dados é o foco e compartilhar é a força do meu aprendizado</h6>
 
 <h6 align="left">Tem alguma pergunta? Ou um projeto? </h6>
